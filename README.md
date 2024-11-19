@@ -19,10 +19,10 @@
 # Github Statistics:
 <p align='center'> 
 
-   <a href="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true"> 
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true"/> 
+   <a href="https://github-readme-stats.vercel.app/api?username=isaacssuperawesomegithub&show_icons=true&count_private=true"> 
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=isaacssuperawesomegithub&show_icons=true&count_private=true"/> 
    </a> 
    <a href="https://github.com/yourusername/github-readme-stats"> 
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact"/> 
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacssuperawesomegithub&layout=compact"/> 
    </a> 
 </p> 
