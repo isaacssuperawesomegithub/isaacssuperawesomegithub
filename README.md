@@ -1,4 +1,4 @@
-### Hello friends 😁
+### Hello friends 
 # My name is Isaac Koenders
 # I am a decent beginner in Python
 # You can contact me at:
@@ -6,15 +6,12 @@
 - inkoenders2@gmail.com (if previous is unavailable)
 
 # Socials:
-- FB: Brittany Lancer 📖
-- Snap: iscaakc 👻
+- FB: Brittany Lancer 
+- Snap: iscaakc 
 
 # I am learning and/or interested in:
-- Python 🐍 
-- C 😴
-- ARM Assembly 💪
-- JS 🕸️
-- BF 🧠
+- Python 
+- C ++
   
 # Github Statistics:
 <p align='center'> 
